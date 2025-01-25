@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">J'utilise ces logiciels (ordre de mes compétences)</h2>
+<h2 align="left">Logiciels</h2>
 
 ###
 
